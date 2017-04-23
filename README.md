@@ -8,6 +8,6 @@ To run this project download the repository and open index.html in your browser.
 2. Check if each feed in `allFeeds` object have URL defined and isn't empty
 3. Check if each feed in `allFeeds` object have name defined and isn't empty
 4. Check if the menu element is hidden by default when load the page
-5. Check if when menu element is trigger show and hide the list of feeds
+5. Check if show and hide the list of feeds when menu element is trigger 
 6. Check if have at least a single `.entry` element within the `.feed` container when the `loadFeed` function is called and completes
 7. Check if the content actually changes when a new feed is loaded by the `loadFeed` function
